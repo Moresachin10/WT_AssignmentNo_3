@@ -1,0 +1,29 @@
+body{
+  background-image: url(Background.jpg);
+  background-position: center;
+  background-size: cover;
+  
+  
+}
+.header1{
+    float: left;
+}
+
+#Menu{
+    padding-top: 100px;
+    
+}
+.MenuContainer{
+    float: right;
+    margin-right: 200px;
+     margin-left: 300px;
+     margin-bottom: 300px;
+    padding: 100px;
+    background-color: rgba(91, 175, 176, 0.4);
+}
+footer{
+    padding-top: 500px;
+    font-size: 20px;
+    text-align: center;
+    background-color: cadetblue;
+}
